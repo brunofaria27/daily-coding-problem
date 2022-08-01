@@ -17,7 +17,6 @@ def message_possibility(message_encoded):
         return res
     return decoded_message(message_encoded, len(message_encoded))
 
-                        
 # Testing coding using assert in Python
 assert message_possibility('') == 1
 assert message_possibility('1') == 1
@@ -30,3 +29,7 @@ assert message_possibility('0103001') == 0
 assert message_possibility('0101') == 0
 assert message_possibility('001') == 0
 assert message_possibility('011010') == 0
+
+# Complexity Analysis
+# Space Complexity: O(n)
+# Time Complexity: O(n)
