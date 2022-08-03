@@ -25,5 +25,5 @@ k = 16
 assert search_numbers(list_numbers, k) == False
 
 # Complexity Analysis
-# Space Complexity: O(n^2)
-# Time Complexity: O(n)
+# Space Complexity: O(n)
+# Time Complexity: O(n^2)

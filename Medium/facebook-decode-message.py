@@ -31,5 +31,5 @@ assert message_possibility('001') == 0
 assert message_possibility('011010') == 0
 
 # Complexity Analysis
-# Space Complexity: O(n)
+# Space Complexity: O(1)
 # Time Complexity: O(n)
