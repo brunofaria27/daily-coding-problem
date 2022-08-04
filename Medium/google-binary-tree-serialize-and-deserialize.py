@@ -43,3 +43,7 @@ assert deserialize(serialize(node)).right.val == 'right'
 assert deserialize(serialize(node)).left.left.left == '-1'
 assert deserialize(serialize(node)).left.right.val == 'left.right'
 assert deserialize(serialize(node)).right.right.left == '-1'
+
+# Complexity Analysis
+# Space Complexity: O(n)
+# Time Complexity: O(n)
