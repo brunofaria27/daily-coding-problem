@@ -27,4 +27,4 @@ assert searchNumber(list_integers) == 4
 
 # Complexity Analysis
 # Space Complexity: O(1)
-# Time Complexity: O(n)
+# Time Complexity: O(n log n)
