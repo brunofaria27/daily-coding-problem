@@ -7,4 +7,3 @@ Data      A        B        C        D
 Next   0 xor b  a xor c  b xor d  c xor 0
 '''
 # This exercise I don't know how to execute
-
