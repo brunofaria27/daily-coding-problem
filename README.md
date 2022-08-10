@@ -12,5 +12,5 @@ Exercises I couldn't do:
 
 Revision: 
 - [Google - Easy (Unival Tree)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Easy/google-unival-tree.py)
-- [Airbnb - Hard (Largest Sum #4)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Hard/airbnb-largest-sum.py)
+- [Airbnb - Hard (Largest Sum)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Hard/airbnb-largest-sum.py)
 
