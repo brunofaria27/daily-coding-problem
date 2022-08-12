@@ -41,3 +41,7 @@ tree = Node(0, Node(0), Node(0), )
 assert countUnivalSubTrees(tree) == 3
 tree = Node(0, Node(0, Node(0), Node(1), ), Node(1, Node(1), Node(1), ),)
 assert countUnivalSubTrees(tree) == 5
+
+# Complexity Analysis
+# Space Complexity: O(n)
+# Time Complexity: O(n)

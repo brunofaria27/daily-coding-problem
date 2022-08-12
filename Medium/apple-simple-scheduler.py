@@ -11,3 +11,7 @@ def scheduler(function, time_wait):
     return function()
 
 assert scheduler(test_function, 10000) == "I'm a very good programmer."
+
+# Complexity Analysis
+# Space Complexity: O(1)
+# Time Complexity: O(1)

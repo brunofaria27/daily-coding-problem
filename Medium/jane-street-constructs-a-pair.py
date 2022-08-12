@@ -24,3 +24,7 @@ def cdr(pair):
 
 assert car(cons(3, 4)) == 3
 assert cdr(cons(3, 4)) == 4
+
+# Complexity Analysis
+# Space Complexity: O(1)
+# Time Complexity: O(1)
