@@ -23,5 +23,5 @@ array = [(30, 75), (0, 50), (60, 150)]
 assert min_rooms(array) == 2
 
 # Complexity Analysis
-# Space Complexity: O(1)
+# Space Complexity: O(n)
 # Time Complexity: O(n)
