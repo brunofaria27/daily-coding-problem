@@ -6,3 +6,4 @@ Medium Exercises
 - [Apple - Medium (Simple Scheduler #10)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/apple-simple-scheduler.py)
 - [Twitter - Medium (String Starts With #11)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/twitter-strings-starts-with.py)
 - [Facebook - Medium (Pick Random #14)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/facebook-pick-random.py)
+- [Microsoft - Medium (Dict Words #22)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/microsoft-dict-words.py)
