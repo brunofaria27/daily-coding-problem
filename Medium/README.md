@@ -7,3 +7,4 @@ Medium Exercises
 - [Twitter - Medium (String Starts With #11)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/twitter-strings-starts-with.py)
 - [Facebook - Medium (Pick Random #14)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/facebook-pick-random.py)
 - [Microsoft - Medium (Dict Words #22)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/microsoft-dict-words.py)
+- [Microsoft - Medium (Locked Binary Tree #24)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/google-node-locked.py)
