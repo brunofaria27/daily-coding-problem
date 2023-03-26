@@ -22,22 +22,8 @@ class LinkedList:
             current = current.next
         current.next = Node(value) # Add at de final linked list
 
-    '''
-    I need to create this function because the address of two linked list is different.
-    This method returns only those elements present in linked list.
-    '''
-    def returnArrayOfLinkedList(self):
-        array_returns = list()
-    
-        current = self.head
-        array_returns.append(current.item)
-        while current is not None: # Only interative
-            array_returns.append(current.item)
-            current = current.next
-        return array_returns
-
 def removeKlast(linkedList, k):
-    newLinkedList = LinkedList()
+    newLinkedList = list()
     p1 = linkedList.head
 
     newLinkedList.append(p1.item) # Add head to new Linked list
@@ -59,13 +45,7 @@ myLinkedList.append(4)
 myLinkedList.append(5)
 myLinkedList = removeKlast(myLinkedList, 2)
 
-mylinkedListAssert = LinkedList()
-mylinkedListAssert.append(1)
-mylinkedListAssert.append(2)
-mylinkedListAssert.append(3)
-mylinkedListAssert.append(5)
-
-assert myLinkedList.returnArrayOfLinkedList() == mylinkedListAssert.returnArrayOfLinkedList()
+assert myLinkedList == [1, 2, 3, 5]
 
 # Complexity
 # O(n)
