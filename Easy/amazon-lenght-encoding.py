@@ -32,3 +32,6 @@ string = "AAAABBBCCDAA"
 encrypted_string = "4A3B2C1D2A"
 assert encrypt(string) == encrypted_string
 assert decrypt(encrypted_string) == string
+
+# Complexity Analysis
+# Time Complexity: O(n) - where N is the number of chars in string
