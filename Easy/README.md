@@ -8,3 +8,4 @@ Easy Exercises
 - [Snapchat - Easy (Min Classes #21)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Easy/snapchat-min-class.py)
 - [Google - Easy (Matrix Search BFS #23)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Easy/google-board-play.py)
 - [Facebook - Easy (String of Round #27)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Easy/facebook-string-of-round.py)
+- [Amazon - Easy (Lenght Enconding #29)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Easy/amazon-lenght-encoding.py)
