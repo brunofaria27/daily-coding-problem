@@ -5,3 +5,4 @@ Hard Exercises
 - [Airbnb - Hard (Largest Sum #8)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Hard/airbnb-largest-sum.py)
 - [Amazon - Hard (Staircase #12)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Hard/amazon-staircase.py)
 - [Google - Hard (Max of Subarrays #18)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Hard/google-max-subarrays.py)
+- [Amazon - Hard (Substring Palindromic #46)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Hard/amazon-palindromic.py)
