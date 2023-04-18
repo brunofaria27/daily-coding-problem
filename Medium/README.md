@@ -10,3 +10,4 @@ Medium Exercises
 - [Microsoft - Medium (Locked Binary Tree #24)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/google-node-locked.py)
 - [Google - Medium (Remove nth last element in linked list #26)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/google-singly-linked-list.py)
 - [Facebook - Medium (Array negative integers #30)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/facebook-array-negative.py)
+- [Google - Medium (Reconstruct transversal tree #48)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/google-transversal-tree.py)
