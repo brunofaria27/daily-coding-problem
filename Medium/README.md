@@ -11,3 +11,4 @@ Medium Exercises
 - [Google - Medium (Remove nth last element in linked list #26)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/google-singly-linked-list.py)
 - [Facebook - Medium (Array negative integers #30)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/facebook-array-negative.py)
 - [Google - Medium (Reconstruct transversal tree #48)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/google-transversal-tree.py)
+- [Amazon - Medium (Contiguous subarray sum #49)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Medium/amazon-contiguous-subarray.py)
