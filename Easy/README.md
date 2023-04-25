@@ -12,3 +12,4 @@ Easy Exercises
 - [Google - Easy (Levenshtein Distance #31)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Easy/google-distance-between.py)
 - [Microsoft - Easy (Running Median #33)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Easy/microsoft-running-median.py)
 - [Two Sigma - Easy (Random 1-5 #45)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Easy/two-sigma-rand.py)
+- [Microsoft - Easy (URL shortener #55)](https://github.com/brunofaria27/daily-coding-problem/blob/main/Easy/microsoft-url.py)
